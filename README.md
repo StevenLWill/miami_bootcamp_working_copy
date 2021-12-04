@@ -18,5 +18,5 @@ Testing VIM Editor
 * Text with 1 asterisk *
 
   
-  **THIS IS BOLD PRINT**
+  **THIS IS BOLD PRINT** 
   *this is italics*
