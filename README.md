@@ -13,6 +13,6 @@ Testing VIM Editor
 
 ### Even smaller
 
-**Text with 2 asterisks **
+**Text with 2 asterisks**
 
 * Text with 1 asterisk *
