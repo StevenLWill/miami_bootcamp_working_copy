@@ -12,3 +12,7 @@ Testing VIM Editor
 ## Slight Smaller Header
 
 ### Even smaller
+
+** Text with 2 asterisks **
+
+* Text with 1 asterisk *
