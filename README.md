@@ -6,3 +6,9 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 
 Testing VIM Editor
+
+# BIG HEADER
+
+## Slight Smaller Header
+
+### Even smaller
