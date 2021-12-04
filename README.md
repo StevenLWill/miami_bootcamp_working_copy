@@ -17,4 +17,4 @@ Testing VIM Editor
 
 * Text with 1 asterisk *
 
-!["https://hips.hearstapps.com/countryliving.cdnds.net/17/47/1511194376-cavachon-puppy-christmas.jpg"]
+![https://hips.hearstapps.com/countryliving.cdnds.net/17/47/1511194376-cavachon-puppy-christmas.jpg](puppy)
